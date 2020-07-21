@@ -1,0 +1,245 @@
+body{
+    background-image: url('https://www.budenheim.com/uploads/background/Covid-HG.jpg');
+    background-size: cover;
+    
+    background-position: center;
+
+}
+#nav{
+    position:fixed;
+    width: 100%;
+}
+.para{
+    padding-top: 30px;
+     font-size: 22px;
+}
+
+.aa{
+    height: 150px;
+    width: 300px;
+    background-color: red;
+    margin-left: 110px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-radius: 5px;
+    box-shadow: chartreuse;
+    display: inline-block;
+}
+
+.aa1{
+    height: 150px;
+    width: 300px;
+    text-align: center;
+    background-color:greenyellow;
+    margin-left: 110px;
+    margin-top: 100px;
+    padding-top: 20px;
+    border-radius: 5px;
+    box-shadow: chartreuse;
+    display: inline-block;
+}
+#covid{
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    margin-bottom: 20px;
+    margin-top: 35px;
+}
+
+.update h2{
+    margin-top: 25px;
+}
+.country{
+    margin-left: 20%;
+    margin-top: 40px;
+}
+#form{
+    margin-left: 20%;
+}
+
+.scroll {
+    background-color: #fed9ff;
+    width: 800px;
+    height: 550px;
+    overflow: auto;
+    margin-left: 20%;
+    margin-top: 30px;
+    text-align: justify;
+    padding: 20px;
+  }
+
+.sort{
+    display: inline-block;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: black;
+    
+    color: blue;
+  }
+  .fa-google {
+    background: black;
+    
+    color: blue;
+  }
+  .fa-instagram {
+    background: black;
+    
+    color: blue;
+  }
+  
+
+
+
+
+.footer{
+    width: 100%;
+    background-color: black;
+    height: 150px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.footer h5{
+    color: white;
+
+}
+.footer .call{
+    color: red;
+}
+.clock{
+    padding-top: 100px;
+    text-align: center;
+}
+.rishav{
+    font-size: 30px;
+    color: yellow;
+}
+.usa{
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtip3fuYYFyQmKMlEGfV6WjNK2pP7gomoh4w&usqp=CAU');
+    background-position: center;
+    background-size: cover;
+    margin-left: 110px;
+    margin-top: 100px;
+    padding-top: 20px;
+    border-radius: 5px;
+    box-shadow: chartreuse;
+    display: inline-block;
+}
+.aus{
+    
+        height: 350px;
+        width: 300px;
+        text-align: center;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1EcvULD-d5rcGfujeGrQl2YQ3HeSGagR1Mg&usqp=CAU');
+        background-position: center;
+        background-size: cover;
+        margin-left: 110px;
+        margin-top: 100px;
+        padding-top: 20px;
+        border-radius: 5px;
+        box-shadow: chartreuse;
+        display: inline-block;
+    
+}
+.aus h3{
+    color: red;
+}
+.india h3{
+    color: red;
+}
+.usa h3{
+    color: red;
+}
+.aus p{
+    color:black;
+    margin-top: -10px;
+    font-style: normal;
+    font-size: 20px;
+}
+
+
+
+.usa p{
+    color:black;
+    margin-top: -10px;
+    font-style: normal;
+    font-size: 20px;
+}
+.india p{
+    color:black;
+    margin-top: -10px;
+    font-style: normal;
+    font-size: 20px;
+}
+.india{
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    background-image: url('https://imagevars.gulfnews.com/2019/08/22/India-Economy-lead_16cb9c8b639_medium.jpg');
+    background-position: center;
+    background-size: cover;
+    margin-left: 110px;
+    margin-top: 100px;
+    padding-top: 20px;
+    border-radius: 5px;
+    box-shadow: chartreuse;
+    display: inline-block;
+}
+#email{
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 20%;
+    width: 350px;
+   
+}
+.heading{
+    margin-left: 40%;
+    color: white;
+}
+.aa2{
+    height: 150px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    padding-top: 12px;
+    background-color: black;
+    margin-left: 110px;
+    margin-top: 50px;
+    border-radius: 5px;
+    box-shadow: chartreuse;
+    display: inline-block;
+}
+.aa:hover{
+    transform: scale(1.3);
+}
+.aa1:hover{
+    transform: scale(1.3);
+}
+.aa2:hover{
+    transform: scale(1.3);
+}
+
+*{
+    padding: 0%;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0%;
+    box-sizing: border-box;
+}
